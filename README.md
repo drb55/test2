@@ -1,1 +1,2 @@
-This is my readme file for test2 [updated on github].
+This is my readme file for test2 [updated on github] 
+[updated locally].
